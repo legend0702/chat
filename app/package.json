@@ -2,17 +2,16 @@
     "name": "chat",
     "version": "0.0.1",
     "description": "Node.js chat :)",
-    "homepage": "http://www.zhuhongqing.cn/",
     "maintainers": [
         {
             "name": "HongQing.Zhu",
             "email": "qwepoidjdj@gmail.com",
-            "url": "https://github.com/legend0702"
+            "url": "http://www.zhuhongqing.cn/"
         }
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/legend0702"
+        "url": "https://github.com/legend0702/chat"
     },
     "engines": {
         "node": ">=0.4.0"

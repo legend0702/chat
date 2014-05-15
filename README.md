@@ -1,4 +1,4 @@
 chat
 ====
 
-Create a chat about study Node.js :)
+Create a chat about learn Node.js :)
